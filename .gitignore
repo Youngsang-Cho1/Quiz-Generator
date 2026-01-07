@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Envs
+.venv/
+env/
+venv/
+.conda/
+*.conda
+
+# macOS
+.DS_Store
+
+# Gradio / temp
+*.log
+
+# Jupyter 
+.ipynb_checkpoints/
+
+# Secrets
+.env
